@@ -1,1 +1,1 @@
-# emotion_detection
+Download model: https://drive.google.com/file/d/1SA-kEIKdVBMyV8cUcphRQWVhMlzQVq8V/view?usp=sharing
